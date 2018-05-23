@@ -5,7 +5,7 @@ This demonstrates an upload progress bar.
 It uses axios.
 
 
-##How to use
+## How to use
 
 run 
 
